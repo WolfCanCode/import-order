@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wolfcancode.importorder.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wolfcancode.importorder.MyBundle
 
 class MyApplicationService {
 
